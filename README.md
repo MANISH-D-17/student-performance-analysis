@@ -20,21 +20,9 @@ It applies **Exploratory Data Analysis (EDA)** and a **Deep Learning (MLP)** mod
 
 ## 🚀 How to Run the Project
 
-### Option 1 — Google Colab (Recommended)
+### Google Colab 
 1. Open the notebook directly in Colab:  
    [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/student-performance-analysis/blob/main/student_performance_analysis.ipynb](https://colab.research.google.com/drive/1My0AkD6nLOz_YBpIqiVI4MvW1hov4Buz?usp=sharing))
 2. Upload the dataset file: **`student-por.csv`**
 3. Run all cells (Ctrl + F9 → “Run All”)
 4. View training accuracy, loss plots, ROC curve, and confusion matrix.
-
-### Option 2 — Local Setup
-```bash
-# Clone the repository
-git clone https://github.com/USERNAME/student-performance-analysis.git
-cd student-performance-analysis
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow plotly missingno
-
-# Run the notebook
-jupyter notebook student_performance_analysis.ipynb
