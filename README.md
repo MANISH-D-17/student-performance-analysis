@@ -22,7 +22,7 @@ It applies **Exploratory Data Analysis (EDA)** and a **Deep Learning (MLP)** mod
 
 ### Google Colab 
 1. Open the notebook directly in Colab:  
-   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/student-performance-analysis/blob/main/student_performance_analysis.ipynb](https://colab.research.google.com/drive/1My0AkD6nLOz_YBpIqiVI4MvW1hov4Buz?usp=sharing))
+   [![Open In Colab]](https://colab.research.google.com/drive/1My0AkD6nLOz_YBpIqiVI4MvW1hov4Buz?usp=sharing)
 2. Upload the dataset file: **`student-por.csv`**
 3. Run all cells (Ctrl + F9 → “Run All”)
 4. View training accuracy, loss plots, ROC curve, and confusion matrix.
